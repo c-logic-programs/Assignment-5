@@ -1,11 +1,19 @@
 /*
-4. Accept range from user and return addition of perfect numbers from that range.
+5. Accept range from user and display prime & perfect numbers from that range.
 Input :
 Output :
 5
-34
 30
-(6 + 28)
+5 is prime number
+6 is perfect number
+7 is prime number
+11 is prime number
+13 is prime number
+17 is prime number
+19 is prime number
+23 is prime number
+28 is perfect number
+29 is prime number
 */
 
 #include<stdio.h>
